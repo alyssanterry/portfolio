@@ -495,6 +495,7 @@ section {
 .section-title {
   text-align: center;
   padding-bottom: 30px;
+  padding-top: 30px;
 }
 
 .section-title h2 {
@@ -792,6 +793,11 @@ section {
   border: 2px solid #299798;
 }
 
+.pdf-resume {
+  text-align: center;
+  padding-bottom: 1rem;
+}
+
 /*--------------------------------------------------------------
 # Services
 --------------------------------------------------------------*/
@@ -1045,9 +1051,7 @@ section {
 /*--------------------------------------------------------------
 # Portfolio Details
 --------------------------------------------------------------*/
-.portfolio-details {
-  padding-top: 0;
-}
+
 
 .portfolio-details .portfolio-details-slider img {
   width: 100%;
@@ -1106,6 +1110,34 @@ section {
 .portfolio-details .portfolio-description p {
   padding: 0;
 }
+
+.card {
+  border: none;
+}
+
+.statements {
+  background-color: #299798;
+  color: white;
+  padding: 2rem;
+}
+
+.before-after {
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+}
+
+.description-section {
+  padding-top: 2rem;
+}
+
+#video-wrapper { 
+  width: 920px; 
+  height: auto; 
+  margin: 0 auto;
+  padding-bottom: 2rem;
+  /* padding-left: 10rem;
+  padding-right: 2rem; */
 
 /*--------------------------------------------------------------
 # Contact

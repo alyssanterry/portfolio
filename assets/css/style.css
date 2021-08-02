@@ -1185,7 +1185,8 @@ section {
   color: #fff;
 }
 
-.contact .php-email-form {
+
+/* .contact .php-email-form {
   width: 100%;
   background: #fff;
 }
@@ -1261,7 +1262,7 @@ section {
 
 .contact .php-email-form button[type="submit"]:hover {
   background: #2fadaf;
-}
+} */
 
 @-webkit-keyframes animate-loading {
   0% {
